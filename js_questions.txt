@@ -8,7 +8,7 @@ Ans: Push your folder on GitHub and submit the repo link inside the dashboard of
 
 JavaScript Questions:-
 
-1. Create a variables.js file and declare variables and assign string, boolean, undefined and null data types, Display all the value with their data type.
+1. Create a variable.js file and declare variables and assign string, boolean, undefined and null data types, Display all the value with their data type.
 2. Declare variables to store your first name, last name, marital status, country and age and display them using interpolation method.
 3. Declare a variable and assign string value to it and change all the string characters to capital letters using toUpperCase() method.
 4. Declare a variable and assign string value to it and check if the string contains a word Script using includes() method.
